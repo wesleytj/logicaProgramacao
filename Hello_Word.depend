@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602096588 source:d:\danki code\curso lógica de programação\c\codeblocks\hello_word\main.c
+	<stdio.h>
+	<stdlib.h>
+
